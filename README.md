@@ -2,7 +2,6 @@
 
 ### neeloriginal
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeloriginal&label=Profile views&color=0e75b6&style=flat" alt="neeloriginal" /> </p>
 
 - 🔭 I'm currently working on **A FastAPI React Project **
 
