@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sajal
+# Hi 👋, I'm Sajal, also call me Neel
 
 ### neeloriginal
 
