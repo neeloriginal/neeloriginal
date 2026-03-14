@@ -1,29 +1,75 @@
-# Hi 👋, I'm Sajal, also call me Neel
+<h1 align="center">Hi 👋, I'm Sajal Das (Neel)</h1>
+<h3 align="center">Backend Developer | FastAPI Learner | React Enthusiast</h3>
 
-### neeloriginal
-
-
-- 🔭 I'm currently working on **A FastAPI React Project **
-
-- 🌱 I'm currently learning **SQLite , Python,  FastAPI**
-
-- 🤝 I'm looking for help with **Learning AWS Systems Manager**
-
-- 💬 Ask me about **React, Laravel, CodeIgniter**
-
-- 📫 How to reach me **sajal68969@gmail.com**
-
-- ⚡ Fun fact **I'm upgrading myself from PHP/Laravel developer to Python + FastAPI + React developer.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/neeloriginal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="neeloriginal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajal-das-backend-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajal-das-backend-developer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11555600/neel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11555600/neel" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Backend+Developer;FastAPI+%7C+React+Developer;Python+Learner;Open+Source+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/codeigniter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeloriginal&" alt="neeloriginal" /></p>
+## 👨‍💻 About Me
 
+- 🔭 Currently working on **FastAPI + React Project**
+- 🌱 Currently learning **Python, FastAPI, SQLite**
+- 🤝 Looking for help with **AWS Systems Manager**
+- 💬 Ask me about **React, Laravel, CodeIgniter**
+- ⚡ Fun fact: **Switching from PHP/Laravel ➜ Python + FastAPI developer**
+- 📫 Reach me at **sajal68969@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/neeloriginal" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://linkedin.com/in/sajal-das-backend-developer" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://stackoverflow.com/users/11555600/neel" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40"/>
+</a>
+</p>
+
+---
+
+# 🛠 Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,html,css,bootstrap,php,laravel,codeigniter,nodejs,git,linux,mysql,mongodb,sqlite,postman,aws" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neeloriginal&show_icons=true&theme=tokyonight" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neeloriginal&theme=tokyonight" height="170">
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeloriginal&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/neeloriginal/neeloriginal/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+⭐️ From [Neel](https://github.com/neeloriginal)
