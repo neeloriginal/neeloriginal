@@ -26,7 +26,7 @@
       </h2>
       <p>I'm <b>Sajal Das (NEEL)</b>, a passionate <b>Backend Web Developer</b> with a strong focus on <b>performance, scalability, and clean architecture</b>. I build scalable and maintainable backend systems.</p>
       
-      <h3>🎯 Current Focus</h3>
+  <h3>🎯 Current Focus</h3>
       <ul>
         <li>🏢 Building robust MIS solutions with <b>FastAPI + React + MySQL</b></li>
         <li>☁️ Mastering <b>AWS Cloud Architecture</b> and <b>DevOps practices</b></li>
@@ -34,7 +34,7 @@
         <li>📊 Exploring <b>PostgreSQL optimization</b> and <b>database scaling</b></li>
       </ul>
       
-      <h3>💡 Development Philosophy</h3>
+  <h3>💡 Development Philosophy</h3>
       <ul>
         <li>✨ <b>Clean Code</b> - Readable, maintainable, and self-documenting</li>
         <li>🚀 <b>Performance First</b> - Optimize for speed and efficiency</li>
@@ -42,7 +42,7 @@
         <li>📚 <b>Continuous Learning</b> - Always evolving with technology</li>
       </ul>
       
-      <h3>⚡ Beyond the Keyboard</h3>
+  <h3>⚡ Beyond the Keyboard</h3>
       <p>When I'm not coding, I'm exploring emerging tech, contributing to open source, and sharing knowledge with the developer community. I believe in the power of collaboration and lifelong learning.</p>
     </td>
     <td width="45%" align="center" valign="top">
@@ -139,11 +139,11 @@
       <progress value="75" max="100" style="width:100%; height:20px;"></progress>
       <p align="right"><i>Advanced - 75%</i></p>
       
-      <h3>☁️ AWS Cloud</h3>
+  <h3>☁️ AWS Cloud</h3>
       <progress value="45" max="100" style="width:100%; height:20px;"></progress>
       <p align="right"><i>Intermediate - 45%</i></p>
       
-      <h3>🔄 GitHub Actions</h3>
+  <h3>🔄 GitHub Actions</h3>
       <progress value="60" max="100" style="width:100%; height:20px;"></progress>
       <p align="right"><i>Intermediate - 60%</i></p>
     </td>
@@ -152,11 +152,11 @@
       <progress value="55" max="100" style="width:100%; height:20px;"></progress>
       <p align="right"><i>Intermediate - 55%</i></p>
       
-      <h3>🐍 Python Advanced</h3>
+  <h3>🐍 Python Advanced</h3>
       <progress value="80" max="100" style="width:100%; height:20px;"></progress>
       <p align="right"><i>Advanced - 80%</i></p>
       
-      <h3>🐳 Docker</h3>
+  <h3>🐳 Docker</h3>
       <progress value="40" max="100" style="width:100%; height:20px;"></progress>
       <p align="right"><i>Intermediate - 40%</i></p>
     </td>
