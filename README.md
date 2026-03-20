@@ -11,7 +11,7 @@
   This adds a modern, interactive feel to your profile.
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Sajal+Das+%F0%9F%91%8B;I'm+a+Backend+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Sajal+Das+%F0%9F%91%8B;I+am+a+Backend+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <!--
@@ -20,7 +20,7 @@
 -->
 ## 👨‍💻 About Me
 
-I'm **Sajal Das** (aka **NEEL**), a passionate **Backend Web Developer** with a focus on building robust, scalable, and efficient web applications. Currently, I work in a MIS administration role where I leverage my skills to create data-driven solutions.
+I'm **Sajal Das** (**NEEL**), a passionate **Backend Web Developer** with a focus on building robust, scalable, and efficient web applications. Currently, I work in a MIS administration role where I leverage my skills to create data-driven solutions.
 
 - 🔭 I’m currently working on a MIS project using **FastAPI**, **React**, and **MySQL**.
 - 🌱 I’m constantly learning and expanding my expertise in **FastAPI**, **Python**, **GitHub Actions**, and **AWS**.
