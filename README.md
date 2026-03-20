@@ -11,7 +11,7 @@
   This adds a modern, interactive feel to your profile.
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Sajal+Das+%F0%9F%91%8B;+I'm+a+Backend+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2C9F6F&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Sajal+Das+%F0%9F%91%8B;A+Backend+Web+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <!--
